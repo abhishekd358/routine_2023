@@ -9,3 +9,9 @@
 2. postman DAY 1 challenge
 3. python revise book and codestudio
 4. Laws of Sucess - pg 52 to pg 55
+
+##### 25 FEB :
+1. codestudio problem solve on python
+2. search about GSOC
+3. Mongodb shell functioning
+4. git revision
