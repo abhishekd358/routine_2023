@@ -15,3 +15,10 @@
 2. search about GSOC
 3. Mongodb shell functioning
 4. git revision
+
+##### 01 MARCH :
+1. codestudio database problem.
+2. video recorded for the series of 30 days challenge of postman 
+3. Day 1 challenge completed postman
+4. Numpy
+
